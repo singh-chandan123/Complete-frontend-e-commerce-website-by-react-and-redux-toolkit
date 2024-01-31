@@ -1,0 +1,22 @@
+.offers{
+    margin-top: 200px;
+    margin-left: 250px;
+    margin-right: 250px;
+    display: flex;
+    gap: 250px;
+    background: linear-gradient(180deg,#fde1ff,#e1ffea22 60%);
+    margin-bottom: 50px;
+}
+.offerleft h1{
+   font-size: 50px; 
+ 
+}
+.offerright img{
+    width: 240px;
+    height: 380px;
+    margin-bottom: 30px;
+}
+.offerleft{
+    margin-left: 100px;
+    margin-top: 80px;
+}

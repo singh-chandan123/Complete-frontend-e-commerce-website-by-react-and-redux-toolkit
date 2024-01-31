@@ -1,0 +1,46 @@
+.allitems-image{
+    width: 170px;
+    height: 130px;
+}
+
+.carts h2{
+    /* background: linear-gradient(180deg,#fde1ff,#e1ffea22 60%); */
+    text-align: center;
+    margin-bottom: 30px;
+    color: red;
+}
+.carts hr{
+    margin-bottom: 20px;
+}
+.allitems-price{
+    display: flex;
+   gap: 20px;
+}
+.allitems{
+  display: flex;
+  margin-left: 50px;
+  align-items: center;
+  margin-top: 50px;
+  justify-content: space-evenly;
+  background-color: white;
+  margin-right: 50px;
+  /* margin-bottom: 50px; */
+}
+.items-filters{
+    display: flex;
+    flex-direction: column;
+    row-gap: 20px;
+    
+   
+    background-color: rgb(18, 229, 240);
+    padding-bottom: 30px;
+    margin-bottom: 30px;
+}
+.removes{
+    background-color: rgb(221, 28, 199);
+    width: 80px ;
+    height: 30px;
+    border: 1px solid pink;
+    border-radius: 7px;
+    color: white;
+}

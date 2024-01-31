@@ -1,0 +1,52 @@
+.login{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 150px;
+    background-color: rgb(237, 205, 237);
+}
+.loginpagestart{
+    margin-top: 70px;
+    background-color: white;
+    padding: 45px 30px 50px 35px;
+    /* display: flex;
+    flex-direction: column; */
+   margin-bottom: 60px;
+}
+.inputtag{
+    display: flex;
+    flex-direction: column;
+    row-gap: 15px;
+    width: 350px;
+    margin-top: 15px;
+}
+.inputname{
+    height: 40px;
+}
+.inputname::placeholder{
+   padding-left: 15px;
+}
+.continue{
+    width: 350px;
+    height: 40px;
+    background-color: red;
+    margin-top: 15px;
+    border: none;
+    color: white;
+    margin-bottom: 15px;
+}
+.verify{
+    font-size: 13px;
+}
+ span{
+    color: red;
+}
+.lastcheckbox{
+    display: flex;
+    gap: 9px;
+    align-items: center;
+}
+.namelast{
+    width: 350px;
+    font-size: 13px;
+}

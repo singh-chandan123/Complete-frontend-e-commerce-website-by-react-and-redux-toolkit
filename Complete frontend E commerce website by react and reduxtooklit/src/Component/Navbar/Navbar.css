@@ -1,0 +1,72 @@
+.navbar{
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 30px;
+}
+.navlogoimg{
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    
+   
+}
+.imagelogo{
+    width: 50px;
+    height: 50px;
+    background-position: cover;
+    margin-right: 10px;
+}
+
+.unorderlist{
+display: flex;
+list-style: none;
+margin-top:25px ;
+}
+.listclass{
+font-size: larger;
+    margin-left: 15px;
+    cursor: pointer;
+}
+.loginandcart{
+   margin-top: 20px; 
+   display: flex;
+   gap: 25px;
+   align-items: center;
+}
+.cartimg{
+    width: 30px;
+    height: 30px;
+    background-position: cover;
+}
+.listclass hr{
+    background: red;
+    width: 80%;
+    height: 3px;
+    border-radius: 10px;
+    border: none;
+}
+.loginbuton{
+width: 120px;
+height: 45px;
+border-radius: 40px;
+border: 1px solid rgb(91, 90, 90);
+
+}
+.cartcount{
+    display: flex;
+    margin-top: -26px;
+    margin-left: -30px;
+    background-color: red;
+   border: none;
+    width: 17px;
+    height: 12px;
+    border-radius: 11px;
+    color: white;
+    padding-left: 6px;
+    padding-bottom: 9px;
+    
+}
+.loginbuton:hover{
+background-color: antiquewhite;
+cursor: pointer;
+}

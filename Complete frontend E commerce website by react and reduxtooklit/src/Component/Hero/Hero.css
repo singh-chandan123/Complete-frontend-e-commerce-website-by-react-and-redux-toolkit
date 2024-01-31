@@ -1,0 +1,54 @@
+.horizontalline{
+    width: 100%;
+    height: 2px;
+    background-color: rgb(188, 190, 193);
+    /* margin-top: 30px; */
+}
+.bothclass{
+    display: flex;
+
+}
+.heroleft{
+    margin-left: 120px;
+    margin-top: 200px;
+}
+.heading{
+    font-weight: 800;
+}
+.heroleftheading{
+    display: flex;
+}
+.new{
+    font-size: 60px;
+}
+.handimg{
+    height: 60px;
+    margin-left: 12px;
+    margin-top: 13px;
+}
+.secondheading h1{
+    font-size: 60px;
+}
+.button{
+    margin-top: 10px;
+    width: 140px;
+    height: 35px;
+    color: white;
+    cursor: pointer;
+    background-color: red;
+    border-radius: 30px;
+    border: none;
+    font-size: 16px;
+}
+.heroright{
+    margin-top: 100px;
+    margin-left: 250px;
+}
+.heroright img{
+    height: 600px;
+    background-position: cover;
+}
+.hero{
+    background: linear-gradient(180deg,#fde1ff,#e1ffea22 60%);
+    overflow-x: hidden;
+}

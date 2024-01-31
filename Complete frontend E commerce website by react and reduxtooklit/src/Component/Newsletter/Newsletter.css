@@ -1,0 +1,38 @@
+
+.newsletter{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+    width: 80%;
+    background: linear-gradient(180deg,#fde1ff,#e1ffea22 60%);
+    margin: 0 auto;
+    margin-bottom: 50px;
+    margin-bottom: 130px;
+}
+.newsletter h1{
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+.newsletter p{
+    margin-bottom: 20px;
+}
+.emailname{
+    width: 500px;
+    height: 37px;
+    border-radius: 40px;
+    border: 1px solid gray;
+   
+}
+.butons{
+    height: 43px;
+    border-radius:40px ;
+    margin-left: -120px;
+    width: 120px;
+    background-color: black;
+    color: white;
+    border: 1px solid black;
+}
+.emailname::placeholder{
+    padding: 13px;
+}

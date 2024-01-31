@@ -1,0 +1,33 @@
+.shopcategory{
+   overflow-x: hidden;
+   margin-bottom: 60px;
+  
+}
+.banner{
+    width: 80%;
+  margin: 0px 110px;
+}
+.sortby{
+    margin-right: 18px;
+    border: 1px solid grey;
+    padding: 8px 13px;
+    border-radius: 30px;
+}
+.highlight{
+   margin-left: 110px;
+    font-weight: 700;
+}
+.shopcategoryheading{
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-between;
+    margin-right: 100px;
+    margin-bottom: 30px;
+}
+.imagefiltering{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+   gap: 20px;
+
+}
